@@ -1,0 +1,12 @@
+Source: indonesian-fonts
+Section: x11
+Priority: optional
+Maintainer: BlankOn Developers <BlankOn@googlegroups.com>
+Build-Depends: cdbs, debhelper (>= 5.0.0)
+Standards-Version: 3.7.2
+
+Package: ttf-lontara
+Architecture: all
+Depends: defoma
+Description: Lontara font for Buginese Language (Lontara' script)
+ Lontara font.
