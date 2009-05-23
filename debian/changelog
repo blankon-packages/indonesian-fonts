@@ -1,3 +1,10 @@
+indonesian-fonts (0.0.20090523) nanggar; urgency=low
+
+  * Deprecated ttf-lontara in favor of ttf-indonesian
+  * New Batak font: Nanggar
+
+ -- Mohammad Anwari <mdamt@mnots.eu>  Sat, 23 May 2009 23:12:16 +0300
+
 indonesian-fonts (0.0.20080105+blankon1) nanggar; urgency=low
 
   * impor ke nanggar
