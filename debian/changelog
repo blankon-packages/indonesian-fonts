@@ -1,3 +1,9 @@
+indonesian-fonts (0.0.20090524) nanggar; urgency=low
+
+  * Replaced the Nanggar OTF font with TTF
+
+ -- Mohammad Anwari <mdamt@mnots.eu>  Sun, 24 May 2009 00:24:58 +0300
+
 indonesian-fonts (0.0.20090523) nanggar; urgency=low
 
   * Deprecated ttf-lontara in favor of ttf-indonesian
