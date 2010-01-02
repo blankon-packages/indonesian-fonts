@@ -1,3 +1,11 @@
+indonesian-fonts (0.6-0+blankon1) ombilin; urgency=low
+
+  * Hapus ttf-lontara - paket kosong
+  * Ubah konvensi nomor versi
+  * Menambah Font Sunda
+
+ -- Akhmat Safrudin <somat@blankonlinux.or.id>  Fri, 01 Jan 2010 22:24:51 +0000
+
 indonesian-fonts (0.0.20090524) nanggar; urgency=low
 
   * Replaced the Nanggar OTF font with TTF
