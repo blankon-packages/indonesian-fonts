@@ -1,3 +1,9 @@
+indonesian-fonts (0.6-1+blankon1) ombilin; urgency=low
+
+  * Menambahkan bali ttf.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Fri, 18 Jun 2010 16:38:19 +0000
+
 indonesian-fonts (0.6-0+blankon1) ombilin; urgency=low
 
   * Hapus ttf-lontara - paket kosong
