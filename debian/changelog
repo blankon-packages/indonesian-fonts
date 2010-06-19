@@ -1,4 +1,10 @@
-indonesian-fonts (0.6-1+blankon1) ombilin; urgency=low
+indonesian-fonts (0.6-1+blankon2) ombilin; urgency=low
+
+  * Updates bali.ttf dari pembuat
+
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Sat, 19 Jun 2010 18:40:07 +0700
+
+indonesian-fonts (0.6-0+blankon1) ombilin; urgency=low
 
   * Menambahkan bali ttf.
   
