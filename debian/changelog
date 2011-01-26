@@ -1,3 +1,9 @@
+indonesian-fonts (0.6-1blankon2) pattimura; urgency=low
+
+  * menaikan versi ke pattimura
+
+ -- simon liling <simonliling@gmail.com>  Wed, 26 Jan 2011 23:09:22 +0800
+
 indonesian-fonts (0.6-1+blankon2) ombilin; urgency=low
 
   * Updates bali.ttf dari pembuat
