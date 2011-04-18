@@ -1,3 +1,9 @@
+indonesian-fonts (0.7-0blankon1) pattimura; urgency=low
+
+  * Added Rejang.ttf to indonesian-fonts.
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Mon, 18 Apr 2011 17:35:58 +0700
+
 indonesian-fonts (0.6-1blankon2) pattimura; urgency=low
 
   * menaikan versi ke pattimura
