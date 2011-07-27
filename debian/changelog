@@ -1,3 +1,9 @@
+indonesian-fonts (0.8-0blankon1) pattimura; urgency=low
+
+  * Added javanese
+  
+ -- Rahman Yusri Aftian <aftian@di.blankon.in>  Wed, 27 Jul 2011 23:04:24 +0700
+
 indonesian-fonts (0.7-1blankon1) pattimura; urgency=low
 
   * modified nanggar.ttf to comply unicode 6.0 standard
